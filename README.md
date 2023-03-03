@@ -8,10 +8,10 @@ This project is my profile with simple create-react-app
 	
 ## :point_right: Technologies
 Project is created with:
-* React: 16.13.1 
-* react-router-dom: 5.1.2, 
+* React: 16.13.1
+* react-router-dom: 5.1.2,
 	
-## :point_right: Setup
+## :point_right: Setup 
 To run this project, install it locally using npm:
 
 ```
