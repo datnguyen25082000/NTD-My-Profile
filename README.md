@@ -11,7 +11,7 @@ Project is created with:
 * React: 16.13.1
 * react-router-dom: 5.1.2,
 	
-## :point_right: Setup
+## :point_right: Setup 
 To run this project, install it locally using npm:
 
 ```
