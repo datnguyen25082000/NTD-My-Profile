@@ -7,7 +7,7 @@
 This project is my profile with simple create-react-app
 	
 ## :point_right: Technologies
-Project is created with:
+Project is created with: 
 * React: 16.13.1
 * react-router-dom: 5.1.2,
 	
