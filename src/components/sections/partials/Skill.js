@@ -10,7 +10,7 @@ const images = {
   js: require("../../../assets/images/library/javascript.png"),
   mysql: require("../../../assets/images/library/mysql.png"),
   bootstrap: require("../../../assets/images/library/bootstrap.png"),
-  angular: require("../../../assets/images/library/angular.png"),
+  // angular: require("../../../assets/images/library/angular.png"),
   antd: require("../../../assets/images/library/antdesign.png"),
   nestjs: require("../../../assets/images/library/nestjs.png"),
   nextjs: require("../../../assets/images/library/nextjs.png"),
