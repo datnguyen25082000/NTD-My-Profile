@@ -102,7 +102,7 @@ const Hero = ({
                             })
                           }
                         >
-                          About me
+                          About Myself
                         </button>
                       </div>
                     </div>
@@ -111,7 +111,7 @@ const Hero = ({
                 <div className="col-4">
                   <div style={{}}>
                     <Image
-                      src={require("./../../assets/images/cover-img.jpg")}
+                      src={require("./../../assets/images/avatar/cover-img.jpg")}
                       alt="Features tile icon 05"
                       width={200}
                       height={200}
@@ -135,13 +135,13 @@ const Hero = ({
               <div className="row">
                 <div className="col-12 col-sm-5 mb-3">
                   <Image
-                    src={require("./../../assets/images/avatar-img.jpg")}
+                    src={require("./../../assets/images/avatar/avatar-img.jpg")}
                     alt="Features tile icon 05"
                     width={300}
                     height={400}
                     style={{ borderRadius: "10px" }}
                     className="reveal-from-bottom"
-                    data-reveal-delay="800"
+                    data-reveal-delay="100"
                   />
                 </div>
                 <div
@@ -173,14 +173,14 @@ const Hero = ({
                   </p>
                   <p>
                     <i class="fas fa-envelope mr-2"></i> &#160;Email:
-                    datnguyen25082000@gmail .com
+                    datnguyen25082000@gmail.com
                   </p>
                   <p>
                     <i class="fas fa-star mr-2"></i> &#160;GPA: 8.34
                   </p>
                   <span>
                     <i class="fas fa-angle-double-right"></i>
-                    &#160;&#160;&#160;&#160;Job objective: Web Developer
+                    &#160;&#160;&#160;&#160;Job Objective: Web Developer
                     specializing in full-stack development. Experience with all
                     stages of the development cycle for dynamic web projects.
                     Well-versed in numerous programming languages. Solid skills

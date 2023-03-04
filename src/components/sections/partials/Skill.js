@@ -2,15 +2,15 @@ import React from 'react';
 
 
 const images = {
-  "c++": require('../../../assets/images/c++.jpg'),
-  "c": require('../../../assets/images/c.png'),
-  "python": require('../../../assets/images/python.png'),
-  "react": require('../../../assets/images/react.png'),
-  "html": require('../../../assets/images/html.png'),
-  "css": require('../../../assets/images/css.png'),
-  "js": require('../../../assets/images/javascript.png'),
-  "mysql": require('../../../assets/images/mysql.png'),
-  "bootstrap": require('../../../assets/images/bootstrap.png'),
+  "c++": require('../../../assets/images/library/c++.jpg'),
+  "c": require('../../../assets/images/library/c.png'),
+  "python": require('../../../assets/images/library/python.png'),
+  "react": require('../../../assets/images/library/react.png'),
+  "html": require('../../../assets/images/library/html.png'),
+  "css": require('../../../assets/images/library/css.png'),
+  "js": require('../../../assets/images/library/javascript.png'),
+  "mysql": require('../../../assets/images/library/mysql.png'),
+  "bootstrap": require('../../../assets/images/library/bootstrap.png'),
 };
 
 export class Skill extends React.Component {

@@ -65,7 +65,7 @@ const MyProject = ({
           <div className={splitClasses}>
 
             <div className="split-item">
-              <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
+              <div className="split-item-content center-content-mobile reveal-from-ledeft" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
                   Javascript
                   </div>
@@ -86,7 +86,7 @@ const MyProject = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/project1.png')}
+                  src={require('./../../assets/images/project/project1.png')}
                   alt="project1"
                   />
               </div>
@@ -113,7 +113,7 @@ const MyProject = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/project2.png')}
+                  src={require('./../../assets/images/project/project2.png')}
                   alt="Features split 02"
                   />
               </div>
@@ -145,7 +145,7 @@ const MyProject = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/project3.png')}
+                  src={require('./../../assets/images/project/project3.png')}
                   alt="Features split 03"
                   />
               </div>

@@ -95,7 +95,7 @@ header {
 }
 
 .avatar-intro {
-  background-image: url("./assets//images/cover-img.jpg");
+  background-image: url("./assets//images/avatar/cover-img.jpg");
   z-index: 1000;
   width: 100px;
   height: 100px;
