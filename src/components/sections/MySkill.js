@@ -67,15 +67,22 @@ const MySkill = ({
   };
 
   const arrSkill = [
-    {name: "C", type:"language",img: "c" , delay: "0", pecent: "60%"},
+    {name: "C", type:"language",img: "c" , delay: "200", pecent: "60%"},
     {name: "C++", type:"language", img: "c++", delay: "200", pecent: "80%"},
-    {name: "Python", type:"language", img: "python", delay: "400", pecent: "50%"},
-    {name: "Javascript", type:"language", img: "js", delay: "600", pecent: "60%"},
-    {name: "ReactJS", type:"framework", img: "react", delay: "0", pecent: "50%"},
-    {name: "SQL", type:"other", img: "mysql", delay: "200", pecent: "60%"},
-    {name: "HTML", type:"other",img: "html", delay: "400", pecent: "60%"},
-    {name: "CSS", type:"other",img: "css", delay: "600", pecent: "60%"},
-    {name: "Bootstrap", type:"framework",img: "bootstrap", delay: "200", pecent: "60%"}
+    {name: "Python", type:"language", img: "python", delay: "200", pecent: "50%"},
+    {name: "Javascript", type:"language", img: "js", delay: "200", pecent: "60%"},
+    {name: "ReactJS", type:"framework", img: "react", delay: "200", pecent: "50%"},
+    {name: "MySQL", type:"other", img: "mysql", delay: "200", pecent: "60%"},
+    {name: "HTML", type:"other",img: "html", delay: "200", pecent: "60%"},
+    {name: "CSS", type:"other",img: "css", delay: "200", pecent: "60%"},
+    {name: "Bootstrap", type:"framework",img: "bootstrap", delay: "200", pecent: "60%"},
+    {name: "Angular", type:"framework",img: "angular", delay: "200", pecent: "60%"},
+    {name: "NextJS", type:"framework",img: "nextjs", delay: "200", pecent: "60%"},
+    {name: "NestJS", type:"framework",img: "nestjs", delay: "200", pecent: "60%"},
+    {name: "Postgres", type:"other",img: "postgres", delay: "200", pecent: "60%"},
+    {name: "Ant Design", type:"framework",img: "antd", delay: "200", pecent: "60%"},
+    {name: "Typescript", type:"language",img: "typescript", delay: "200", pecent: "60%"},
+    {name: "Redux Toolkit", type:"other",img: "redux", delay: "200", pecent: "60%"},
   ];
 
   const languageSkills = arrSkill.filter(skill => skill.type === "language");
