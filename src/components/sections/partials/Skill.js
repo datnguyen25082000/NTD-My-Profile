@@ -8,15 +8,15 @@ const images = {
   html: require("../../../assets/images/library/html.png"),
   css: require("../../../assets/images/library/css.png"),
   js: require("../../../assets/images/library/javascript.png"),
-  mysql: require("../../../assets/images/library/Mysql.png"),
+  mysql: require("../../../assets/images/library/mysql.png"),
   bootstrap: require("../../../assets/images/library/bootstrap.png"),
-  angular: require("../../../assets/images/library/Angular.png"),
-  antd: require("../../../assets/images/library/Ant-design.png"),
-  nestjs: require("../../../assets/images/library/Nestjs.png"),
-  nextjs: require("../../../assets/images/library/Nextjs.png"),
-  postgres: require("../../../assets/images/library/Postgresql.png"),
-  typescript: require("../../../assets/images/library/Typescript.png"),
-  redux: require("../../../assets/images/library/Redux.png"),
+  angular: require("../../../assets/images/library/angular.png"),
+  antd: require("../../../assets/images/library/ant-design.png"),
+  nestjs: require("../../../assets/images/library/nestjs.png"),
+  nextjs: require("../../../assets/images/library/nextjs.png"),
+  postgres: require("../../../assets/images/library/postgresql.png"),
+  typescript: require("../../../assets/images/library/typescript.png"),
+  redux: require("../../../assets/images/library/redux.png"),
 };
 
 export class Skill extends React.Component {
