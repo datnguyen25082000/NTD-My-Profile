@@ -11,12 +11,12 @@ const images = {
   mysql: require("../../../assets/images/library/mysql.png"),
   bootstrap: require("../../../assets/images/library/bootstrap.png"),
   // angular: require("../../../assets/images/library/angular.png"),
-  antd: require("../../../assets/images/library/antdesign.png"),
-  nestjs: require("../../../assets/images/library/nestjs.png"),
-  nextjs: require("../../../assets/images/library/nextjs.png"),
-  postgres: require("../../../assets/images/library/postgresql.png"),
-  typescript: require("../../../assets/images/library/typescript.png"),
-  redux: require("../../../assets/images/library/redux.png"),
+  // antd: require("../../../assets/images/library/antdesign.png"),
+  // nestjs: require("../../../assets/images/library/nestjs.png"),
+  // nextjs: require("../../../assets/images/library/nextjs.png"),
+  // postgres: require("../../../assets/images/library/postgresql.png"),
+  // typescript: require("../../../assets/images/library/typescript.png"),
+  // redux: require("../../../assets/images/library/redux.png"),
 };
 
 export class Skill extends React.Component {
